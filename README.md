@@ -4,7 +4,7 @@
 
 first of all compile the project:
 
-![alt text](readmefract/compilefract.png)
+![alt text](readmefract/compilefrac.png)
 
 then launch with the fractal you want to see :
 (-mandelbrot, -julia, -burningship, -meduse)
