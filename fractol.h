@@ -13,7 +13,7 @@
 #ifndef FRACTOL_H
 
 # define FRACTOL_H
-# include <mlx.h>
+# include "minilibx_macos/mlx.h"
 # include <stdlib.h>
 # include <math.h>
 # include "libft/libft.h"
